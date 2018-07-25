@@ -2,3 +2,5 @@
  function returnFirstTwoDrivers(drivers){
   return ['Sally', 'Bob'];
 }
+
+(function () { returnFirstTwoDrivers = 'testing reassignment'; }).to.throw(TypeError);
