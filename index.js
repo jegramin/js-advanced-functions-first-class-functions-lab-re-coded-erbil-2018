@@ -1,5 +1,5 @@
 // Code your solution in this file!
-const returnFirstTwoDrivers function returnFirstTwoDrivers(drivers){
+const returnFirstTwoDrivers = function (drivers){
   return ['Sally', 'Bob'];
 }
 
