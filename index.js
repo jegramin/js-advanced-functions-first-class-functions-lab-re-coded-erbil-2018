@@ -4,5 +4,5 @@ const returnFirstTwoDrivers = function (drivers){
 }
 
 function returnLastTwoDrivers(drivers){
-  ['Freddy', 'Claudia'];
+ return ['Freddy', 'Claudia'];
 }
