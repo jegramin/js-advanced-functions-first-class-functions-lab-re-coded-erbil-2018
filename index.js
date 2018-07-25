@@ -18,3 +18,7 @@ let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
 function fareDoubler(num){
   return num*2;
 }
+
+function fareTripler(num){
+  return num*3;
+}
