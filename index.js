@@ -23,3 +23,5 @@ function fareTripler(num){
   return num*3;
 }
 
+selectDifferentDrivers(drivers, returnFirstTwoDrivers){
+  ['Sally', 'Bob'];}
