@@ -27,5 +27,6 @@ function selectDifferentDrivers(drivers, returnFirstTwoDrivers){
   return ['Sally', 'Bob'];
 }
 
-functionselectDifferentDrivers(drivers, returnLastTwoDrivers){
-  return ['Freddy', 'Claudia'];}
+function selectDifferentDrivers(drivers, returnLastTwoDrivers){
+  return ['Freddy', 'Claudia'];
+}
