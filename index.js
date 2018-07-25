@@ -1,4 +1,8 @@
 // Code your solution in this file!
+function returnFirstTwoDrivers(drivers){
+  return newArray =[drivers[0], drivers[1]];
+}
+
 const returnFirstTwoDrivers = function returnFirstTwoDrivers(drivers){
   return newArray =[drivers[0], drivers[1]];
 }
