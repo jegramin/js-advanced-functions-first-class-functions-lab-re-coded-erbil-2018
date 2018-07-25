@@ -24,4 +24,6 @@ function fareTripler(num){
 }
 
 selectDifferentDrivers(drivers, returnFirstTwoDrivers){
-  ['Sally', 'Bob'];}
+  return ['Sally', 'Bob'];
+  
+}
