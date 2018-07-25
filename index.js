@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function returnFirstTwoDrivers(drivers){
-  return newArray =[drivers[0], drivers[1]];
+  return drivers[0], drivers[1];
 }
 
 const returnLastTwoDrivers = function (drivers){
