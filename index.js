@@ -4,7 +4,7 @@ const returnFirstTwoDrivers = function (drivers){
 }
 
 const returnLastTwoDrivers = function (drivers){
- return newArray[drivers[drivers.length -2]];
+ return newArray[drivers[drivers.length -2],drivers[drivers.length -1]];
 }
 
 let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
