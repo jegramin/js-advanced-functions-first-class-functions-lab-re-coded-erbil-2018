@@ -9,6 +9,6 @@ const returnLastTwoDrivers = function (drivers){
 
 let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
 
-const fareMultiplier =( function (){
+function fareMultiplier(){
   return createFareMultiplier();
-})
+}
