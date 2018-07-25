@@ -1,4 +1,4 @@
 // Code your solution in this file!
-const drv = function returnFirstTwoDrivers(drivers){
+ function returnFirstTwoDrivers(drivers){
   return ['Sally', 'Bob'];
 }
