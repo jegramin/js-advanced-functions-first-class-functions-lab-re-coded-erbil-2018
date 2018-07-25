@@ -7,4 +7,4 @@ const returnLastTwoDrivers = function (drivers){
  return ['Freddy', 'Claudia'];
 }
 
-selectingDrivers[returnFirstTwoDrivers];
+let selectingDrivers = [returnFirstTwoDrivers];
