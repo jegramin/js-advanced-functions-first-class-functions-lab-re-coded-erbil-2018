@@ -11,7 +11,7 @@ let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
 
  function createFareMultiplier(num){
  return function(){
-   return num*2;
+   return num*5;
  }
 }
 
