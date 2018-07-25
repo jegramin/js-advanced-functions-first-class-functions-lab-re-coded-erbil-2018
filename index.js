@@ -14,5 +14,5 @@ let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
    return createFareMultiplier(5);
  }
 }
-const fareQuintupler = ;
+
 
