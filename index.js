@@ -22,3 +22,4 @@ function fareDoubler(num){
 function fareTripler(num){
   return num*3;
 }
+
