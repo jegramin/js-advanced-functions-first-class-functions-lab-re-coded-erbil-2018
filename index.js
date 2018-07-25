@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function (drivers){
-  return ['Sally', 'Bob'];
+  return [0, 1];
 }
 
 const returnLastTwoDrivers = function (drivers){
