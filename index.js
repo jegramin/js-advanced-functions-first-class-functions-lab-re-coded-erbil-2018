@@ -1,6 +1,6 @@
 // Code your solution in this file!
- function returnFirstTwoDrivers(drivers){
+const returnFirstTwoDrivers function returnFirstTwoDrivers(drivers){
   return ['Sally', 'Bob'];
 }
 
-(function () { returnFirstTwoDrivers = 'testing reassignment'; }).to.throw(TypeError);
+// (function () { returnFirstTwoDrivers = 'testing reassignment'; }).to.throw(TypeError);
