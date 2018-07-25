@@ -15,4 +15,6 @@ let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
  }
 }
 
-function fareDoubler(){}
+function fareDoubler(num){
+  return num*2;
+}
