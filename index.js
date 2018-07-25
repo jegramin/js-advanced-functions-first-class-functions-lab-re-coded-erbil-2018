@@ -15,4 +15,4 @@ let selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers];
  }
 }
 
-
+function fareDoubler(){}
