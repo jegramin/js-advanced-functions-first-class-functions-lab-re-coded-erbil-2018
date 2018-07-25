@@ -3,6 +3,6 @@ const returnFirstTwoDrivers = function (drivers){
   return ['Sally', 'Bob'];
 }
 
-function returnLastTwoDrivers(drivers){
+const returnLastTwoDrivers = function (drivers){
  return ['Freddy', 'Claudia'];
 }
